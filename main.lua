@@ -67,3 +67,4 @@ end
 
 
 loadPlugin(scripts.gear)
+scripts.plugins_update_check:github_check_version('arkadia-gear', 'spocknudzesie')
